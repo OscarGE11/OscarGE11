@@ -1,7 +1,7 @@
 # Óscar García Espinosa - Full-Stack Web Developer
 
 I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with experience in modern web technologies. I am always eager to learn new tools and frameworks that improve my workflow and help build scalable, efficient, and user-friendly applications.
-
+## My Stack
 ### Frontend
 
 <p>
@@ -31,6 +31,7 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Logo" />
 </p>
 
 ## Contact Me
@@ -42,9 +43,9 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
 </p>
 
   ## GitHub Stats
-<p>
-  ![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGE11&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGE11&layout=compact&theme=radical)
-</p>
+
+  ![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGE11&show_icons=true&theme=radical)                         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGE11&layout=compact&theme=radical)
+
 
 
 
