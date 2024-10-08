@@ -40,13 +40,15 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
   <a href="https://www.linkedin.com/in/%C3%B3scar-garc%C3%ADa-espinosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/OscarGE11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-## GitHub Stats
+<p>
+  ## GitHub Stats
 
 ![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGE11&show_icons=true&theme=radical)
 
 ## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGE11&layout=compact&theme=radical)
+
+</p>
 
 
