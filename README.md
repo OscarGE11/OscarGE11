@@ -2,16 +2,6 @@
 
 I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with experience in modern web technologies. I am always eager to learn new tools and frameworks that improve my workflow and help build scalable, efficient, and user-friendly applications.
 
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
 ### Frontend
 
 <p>
