@@ -45,3 +45,8 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
 
 ![Óscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarGE11&show_icons=true&theme=radical)
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGE11&layout=compact&theme=radical)
+
+
