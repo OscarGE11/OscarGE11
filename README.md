@@ -22,7 +22,7 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
 ## GitHub Stats
 <table>
   <tr>
-    <td style="align:center">
+    <td align="center">
       <p>Github performance</p>
     </td>
   </tr>
