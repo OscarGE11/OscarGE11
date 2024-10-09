@@ -22,6 +22,9 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
 ## GitHub Stats
 <table>
   <tr>
+    <td>
+      <p>Github performance</p>
+    </td>
     <td style="border">
       <img src="https://github-readme-stats.vercel.app/api?username=OscarGE11&show_icons=true&theme=radical" alt="Óscar's GitHub stats" />
     </td>
