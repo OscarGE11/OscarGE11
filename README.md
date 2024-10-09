@@ -1,4 +1,6 @@
-# Óscar García Espinosa - Full-Stack Web Developer
+# Óscar García Espinosa 😃
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7F7F7&width=500&lines=Full+Stack+Developer;Enthusiast+of+Technology+%26+Coding;Welcome+to+my+GitHub!)
 
 I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with experience in modern web technologies. I am always eager to learn new tools and frameworks that improve my workflow and help build scalable, efficient, and user-friendly applications.
 
@@ -38,3 +40,6 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
     </td>
   </tr>
 </table>
+
+
+
