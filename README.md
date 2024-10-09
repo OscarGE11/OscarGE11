@@ -25,6 +25,9 @@ I am Óscar García Espinosa, a passionate **Full-Stack Web Developer** with exp
     <td align="center">
       <p>Github performance</p>
     </td>
+    <td align="center">
+      <p>Most used languages</p>
+    </td>
   </tr>
   <tr>
     <td style="border">
