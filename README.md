@@ -1,12 +1,10 @@
-# 👨‍💻 Óscar García Espinosa
+# Óscar García Espinosa - Web Developer
 
-
-¡Hola! Soy Óscar, un desarrollador **Full Stack** de Madrid con muchas ganas de seguir aprendiendo y creciendo en el mundo del desarrollo web. Aunque me defiendo bien en el backend, disfruto especialmente trabajando en el **frontend**. Me gusta practicar en nuevos proyectos y aprender nuevas herramientas que me ayuden a mejorar como profesional.
-
+Hi there! I'm Óscar, a **Full Stack developer** based in Madrid, passionate about learning and growing in the world of web development. While I'm confident working on the backend, I especially enjoy building **frontend** apps. I like to improve my skills by working on personal projects and exploring new tools that help me become a better developer.
 
 ---
 
-## 🚀 Stack actual
+## 🚀 Current Tech Stack
 
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
@@ -17,24 +15,22 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Otros**  
+**Other Tools**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📌 Proyectos destacados
-🔹 [**Task It**](https://github.com/OscarGE11/vue_taskIt): Aplicación de gestión de tareas con backend Python y frontend Nuxt.  
-🔹 [**P2P Skins**](https://github.com/OscarGE11/P2PSkins): Aplicación de trades para armas de CS2, usando Angular, RxJS y Firebase (en progreso).  
-🔹 [Más proyectos aquí](https://github.com/OscarGE11?tab=repositories)
+## 📌 Featured Projects
+
+🔹 [**Task It**](https://github.com/OscarGE11/vue_taskIt): Task management app using Python for the backend and Nuxt for the frontend.  
+🔹 [**P2P Skins**](https://github.com/OscarGE11/P2PSkins): CS2 skins trading app built with Angular, RxJS, and Firebase (in progress).  
+🔹 [More projects here](https://github.com/OscarGE11?tab=repositories)
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geoscar1100@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/óscar-garcía-espinosa/)
-
----
-
