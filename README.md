@@ -25,7 +25,7 @@ Hi there! I'm Óscar, a **Full Stack developer** based in Madrid, passionate abo
 ## 📌 Featured Projects
 
 🔹 [**Task It**](https://github.com/OscarGE11/vue_taskIt): Task management app using Python for the backend and Nuxt for the frontend.  
-🔹 [**P2P Skins**](https://github.com/OscarGE11/P2PSkins): CS2 skins trading app built with Angular, RxJS, and Firebase (in progress).  
+🔹 [**P2P Skins**](https://github.com/OscarGE11/P2PSkins): CS2 skins trading app built with Angular (in progress).  
 🔹 [More projects here](https://github.com/OscarGE11?tab=repositories)
 
 ---
